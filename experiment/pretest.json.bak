@@ -4,8 +4,8 @@
         "qid": 1,
         "option_a": "$$ Fo = \\frac{t}{L^2} $$",
         "option_b": "$$ Fo = \\frac{\\alpha}{L^2} $$",
-        "option_c": "$$ Fo = \\frac{\\alphat}{L^2} $$",
-        "option_d": "$$ Fo = \\frac{L^2}{\\alphat}$$",
+        "option_c": "$$ Fo = \\frac{\\alpha t}{L^2} $$",
+        "option_d": "$$ Fo = \\frac{L^2}{\\alpha t}$$",
         "correct_option": "c"
     },
     {
@@ -13,7 +13,7 @@
         "qid": 2,
         "option_a": "$$ L =\\frac{b}{2} $$",
         "option_b": "$$ L =\\frac{b}{3} $$",
-        "option_c": "$$ L =\\frac{2}{b} ",
+        "option_c": "$$ L =\\frac{2}{b} $$",
         "option_d": "$$ L =\\frac{3}{b} $$",
         "correct_option": "a"
     },
